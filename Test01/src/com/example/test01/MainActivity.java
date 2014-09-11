@@ -28,8 +28,8 @@ public class MainActivity extends FragmentActivity implements
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		//테스트011
-		// 테스트 011
+
+		// 테스트 20140911
 		setContentView(R.layout.activity_main);
 		LayoutParams param = new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
 		Button btn = new Button(this);
