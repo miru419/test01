@@ -29,7 +29,7 @@ public class MainActivity extends FragmentActivity implements
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 
-		// 테스트 20140911
+		// 테스트 master
 		setContentView(R.layout.activity_main);
 		LayoutParams param = new LayoutParams(LayoutParams.WRAP_CONTENT, LayoutParams.WRAP_CONTENT);
 		Button btn = new Button(this);
